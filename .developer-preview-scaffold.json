@@ -1,7 +1,7 @@
 {
   "schemaVersion": "toolkit.developer-preview-public-repo-scaffold.v1",
   "packageName": "toolkit-sdk",
-  "generatedAt": "2026-08-08T13:39:23.859Z",
+  "generatedAt": "2026-08-08T13:57:50.303Z",
   "boundaryVersion": "toolkit.community-package-boundary.v1",
   "cleanSplitMode": "clean-directory-no-private-history",
   "registryTrust": "disabled-for-developer-preview",
@@ -73,8 +73,8 @@
     },
     {
       "path": ".github/workflows/release.yml",
-      "byteLength": 1219,
-      "digest": "sha256:9c9da558163ac8ead8fd7ce49109f5cea77396fef147d20744cb1a68ebb516a9",
+      "byteLength": 1247,
+      "digest": "sha256:417fb8f8892577a74b425d23d9619d5f2afbd66e5a9e317c63135c3a90a48b7e",
       "generated": true
     }
   ],
@@ -89,5 +89,5 @@
     ".github/workflows/release.yml"
   ],
   "protocolConformanceBundleDigest": "",
-  "digest": "sha256:475609e239ab68479248dea3ace3c9704a980da4e0e8db28d5bf7def469468b7"
+  "digest": "sha256:e95444782f74e6174c02ca9424f6a94c55356f17449859f3843a949f2a6f273d"
 }
