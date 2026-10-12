@@ -1,5 +1,5 @@
 {
-  "name": "@toolkit-fun/sdk",
+  "name": "@toolkitfun/sdk",
   "version": "0.1.0-preview.0",
   "private": false,
   "type": "module",
@@ -13,6 +13,6 @@
     "test": "node -e \"console.log(\\\"Developer Preview scaffold metadata ok\\\")\""
   },
   "dependencies": {
-    "toolkit-protocol": "0.1.0-preview"
+    "@toolkitfun/protocol": "0.1.0-preview"
   }
 }
